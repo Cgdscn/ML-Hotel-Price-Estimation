@@ -1,0 +1,9 @@
+Model,Accuracy,Precision,Recall,F1-score,AUC,Training Time (sec),Runtime for One Record (sec)
+Random Forest,60.06,61.23,58.5,59.66,83.66,3.4953,9.024e-05
+Support Vector Machine,54.63,53.58,57.61,54.72,80.68,51.5229,0.00097868
+DL ANN with Dropout,52.52,52.49,50.56,51.27,78.87,21.3407,0.0001222
+K-Nearest Neighbors,52.47,51.92,50.07,50.85,77.02,0.0049,0.0001261
+Gradient Boosting,52.18,56.79,47.98,50.42,77.13,21.3979,1.231e-05
+DL Basic ANN,52.13,53.79,47.34,48.98,78.07,12.9397,0.00012193
+Logistic Regression,42.58,43.16,48.63,42.97,72.8,5.3076,9.4e-07
+DL Deep ANN + BatchNorm,42.14,45.08,33.82,33.21,68.87,12.4797,0.00017695

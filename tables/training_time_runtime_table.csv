@@ -1,0 +1,9 @@
+Model,Training Time (sec),Runtime for One Record (sec)
+K-Nearest Neighbors,0.0049,0.0001261
+Random Forest,3.4953,9.024e-05
+Logistic Regression,5.3076,9.4e-07
+DL Deep ANN + BatchNorm,12.4797,0.00017695
+DL Basic ANN,12.9397,0.00012193
+DL ANN with Dropout,21.3407,0.0001222
+Gradient Boosting,21.3979,1.231e-05
+Support Vector Machine,51.5229,0.00097868

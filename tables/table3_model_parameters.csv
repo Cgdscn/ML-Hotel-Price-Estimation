@@ -1,0 +1,9 @@
+Sr No,Model,Tuning Parameters
+1,Logistic Regression,"max_iter=1000, C=1.0, solver='lbfgs', class_weight='balanced', random_state=42"
+2,K-Nearest Neighbors,"n_neighbors=5, weights='distance', metric='minkowski', p=2"
+3,Support Vector Machine,"C=10, kernel='rbf', gamma='scale', probability=True, class_weight='balanced', random_state=42"
+4,Random Forest,"n_estimators=300, max_depth=20, min_samples_split=2, min_samples_leaf=1, class_weight='balanced', random_state=42"
+5,Gradient Boosting,"n_estimators=200, learning_rate=0.05, max_depth=3, random_state=42"
+6,DL Basic ANN,"Dense layers: 64-32, activation='relu', optimizer='adam', loss='categorical_crossentropy', epochs=50, batch_size=32"
+7,DL ANN with Dropout,"Dense layers: 128-64-32, Dropout=0.30/0.20, activation='relu', optimizer='adam', epochs=70, batch_size=32"
+8,DL Deep ANN + BatchNorm,"Dense layers: 256-128-64-32, BatchNormalization, Dropout=0.30/0.25/0.20, Adam learning_rate=0.001, epochs=100"

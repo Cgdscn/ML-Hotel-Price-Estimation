@@ -1,0 +1,38 @@
+No.,Feature,Description,Range
+01,country,Country where the hotel is located.,Categorical
+02,city,City where the hotel is located.,Categorical
+03,season,Season of booking or stay.,"Spring, Summer, Autumn, Winter"
+04,score,User rating score of the hotel.,0.0–10.0
+05,review_count,Number of user reviews for the hotel.,0–100000+
+06,distance_to_center,Distance of the hotel from the city center.,0–50 km
+07,star_rating,Official star rating of the hotel.,0–5
+08,has_free_cancellation,Whether the hotel offers free cancellation.,0–1
+09,has_wifi,Whether the hotel provides Wi-Fi service.,0–1
+10,has_pool,Whether the hotel has a swimming pool.,0–1
+11,has_parking,Whether the hotel provides parking service.,0–1
+12,has_air_conditioning,Whether the hotel has air conditioning.,0–1
+13,has_fitness,Whether the hotel has a fitness center.,0–1
+14,has_spa,Whether the hotel provides spa service.,0–1
+15,has_family_rooms,Whether the hotel has family rooms.,0–1
+16,has_non_smoking,Whether the hotel has non-smoking rooms.,0–1
+17,has_restaurant,Whether the hotel has a restaurant.,0–1
+18,has_bar,Whether the hotel has a bar.,0–1
+19,is_pet_friendly,Whether the hotel allows pets.,0–1
+20,has_room_service,Whether the hotel provides room service.,0–1
+21,is_wheelchair_accessible,Whether the hotel is wheelchair accessible.,0–1
+22,has_balcony,Whether the hotel has balcony rooms.,0–1
+23,has_airport_shuttle,Whether the hotel provides airport shuttle service.,0–1
+24,has_breakfast,Whether the hotel offers breakfast.,0–1
+25,has_24h_front_desk,Whether the hotel has a 24-hour front desk.,0–1
+26,has_elevator,Whether the hotel has an elevator.,0–1
+27,has_soundproofing,Whether the hotel has soundproof rooms.,0–1
+28,is_beachfront,Whether the hotel is located on the beachfront.,0–1
+29,has_kitchen,Whether the hotel room has a kitchen.,0–1
+30,has_private_bathroom,Whether the hotel has private bathroom facilities.,0–1
+31,has_ev_charging,Whether the hotel provides electric vehicle charging.,0–1
+32,is_adults_only,Whether the hotel is adults only.,0–1
+33,no_prepayment,Whether the hotel allows booking without prepayment.,0–1
+34,is_remote_friendly,Whether the hotel is suitable for remote working.,0–1
+35,amenity_count,Total number of available hotel amenities.,0–30+
+36,price_tl,Cleaned hotel price in Turkish Lira.,0–200000+ TL
+37,price_category,Generated hotel price category.,Ekonomik / Standart / Premium / Lüks

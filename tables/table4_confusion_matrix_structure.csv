@@ -1,0 +1,5 @@
+,Predicted: Ekonomik,Predicted: Standart,Predicted: Premium,Predicted: Lüks
+Actual: Ekonomik,TP1,FP21,FP31,FP41
+Actual: Standart,FN12,TP2,FP32,FP42
+Actual: Premium,FN13,FN23,TP3,FP43
+Actual: Lüks,FN14,FN24,FN34,TP4

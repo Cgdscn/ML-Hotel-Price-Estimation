@@ -1,7 +1,5 @@
 Project Title: Machine Learning-Based Scandinavian Hotel Price Prediction and Development of Smart Web Application
 
-Student: Çağdaş Can Azim
-Student Number: 230404012
 
 This project uses a hotel dataset collected from the Booking application.
 The original scraped dataset contained 13,958 hotel records and 40 columns.
